@@ -27,10 +27,10 @@ step 7 :- python main.py
 
 2 nd-> click on  "spam.bat" file (if you run it first time it will take few seconds)
 
-#note-> 
+# Note-> 
 
 Don't delete/move/change location of any file from main file
 
-#For help
+# For help
 
 If you have nay doubt contact me on instagram @tejasahirrao1103
